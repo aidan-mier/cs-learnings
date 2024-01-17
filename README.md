@@ -1,2 +1,3 @@
-# cs-learnings
-Me starting to learn CS
+# Documenting my CS learning journey 
+
+Heres to new beginnings
