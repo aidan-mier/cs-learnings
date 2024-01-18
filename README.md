@@ -1,3 +1,3 @@
 # Documenting my CS learning journey 
 
-Heres to new beginnings
+Here's to new beginnings
